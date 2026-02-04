@@ -5,7 +5,7 @@ My name is Francisco and I'm a Computer Engineer from Chile 🇨🇱. I am curre
 - 🌱 I’m currently learning Playwright.
 - 🍕 I love to eat food.
 - 🔧 I love JavaScript and Python to work with.
-- I use [![Debian](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=fff)](#)
+- ⚒️ I use [![Debian](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=fff)](#)
 
 ### 🔗 How to reach me!
 
@@ -23,3 +23,5 @@ My name is Francisco and I'm a Computer Engineer from Chile 🇨🇱. I am curre
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](#)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
