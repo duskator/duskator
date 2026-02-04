@@ -7,6 +7,7 @@ My name is Francisco and I'm a Computer Engineer from Chile 🇨🇱. I currentl
 - 🎶 I love music.
 - 🔧 I use JavaScript and Python for coding.
 - ⚒️ I use **Debian** as my main operating system.
+- 💡 I like to share things about free and open source software.
 
 ### 🔗 How to reach me!
 
