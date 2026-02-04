@@ -1,6 +1,6 @@
 ## Hi! Nice to see you 👋
 
-My name is Francisco and I'm a Computer Engineer from Chile 🇨🇱. I am currently work as a ⚙️ Senior QA Automation Engineer in a retail company.
+My name is Francisco and I'm a Computer Engineer from Chile 🇨🇱. I currently work as a ⚙️ Senior QA Automation Engineer in a retail company.
 
 - 🌱 I’m currently learning Playwright.
 - 🍕 I love to eat food.
