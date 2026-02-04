@@ -1,11 +1,12 @@
 ## Hi! Nice to see you 👋
 
-My name is Francisco and I'm a Computer Engineer from Chile 🇨🇱. I am currently working as a ⚙️ Senior QA Automation Engineer in a retail company.
+My name is Francisco and I'm a Computer Engineer from Chile 🇨🇱. I am currently work as a ⚙️ Senior QA Automation Engineer in a retail company.
 
 - 🌱 I’m currently learning Playwright.
 - 🍕 I love to eat food.
-- 🔧 I love JavaScript and Python to work with.
-- ⚒️ I use [![Debian](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=fff)](#)
+- 🎶 I love music.
+- 🔧 I use JavaScript and Python for coding.
+- ⚒️ I use **Debian** as my main operating system.
 
 ### 🔗 How to reach me!
 
